@@ -1,0 +1,6 @@
+Metric,Score
+Test Accuracy,0.9
+Weighted Precision,0.9023569023569024
+Weighted Recall,0.9
+Weighted F1-Score,0.8997493734335839
+Mean 5-Fold CV Accuracy,0.9600000000000002
